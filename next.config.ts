@@ -4,9 +4,8 @@ const nextConfig: NextConfig = {
   // Required for GitHub Pages hosting
   output: "export",
 
-  // GitHub Pages serves from /<repo-name>/, so set this to your repo name.
-  // Example: if your repo is "hero-animation", set basePath: "/hero-animation"
-  basePath: process.env.NEXT_PUBLIC_BASE_PATH || "",
+  // GitHub Pages serves from /hero-animation/ — must match your repo name exactly
+  basePath: "/hero-animation",
 
   // Next.js image optimization is not supported in static export mode
   images: {
