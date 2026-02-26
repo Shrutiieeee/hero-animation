@@ -7,6 +7,9 @@ const nextConfig: NextConfig = {
   // GitHub Pages serves from /hero-animation/ — must match your repo name exactly
   basePath: "/hero-animation",
 
+  // Required so _next/static/ assets resolve correctly under the sub-path
+  assetPrefix: "/hero-animation",
+
   // Next.js image optimization is not supported in static export mode
   images: {
     unoptimized: true,
