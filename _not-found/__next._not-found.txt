@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[23515,["/hero-animation/_next/static/chunks/7effad0043ea4afc.js","/hero-animation/_next/static/chunks/f8a671f2634ee4ed.js"],"default"]
 3:I[75040,["/hero-animation/_next/static/chunks/7effad0043ea4afc.js","/hero-animation/_next/static/chunks/f8a671f2634ee4ed.js"],"default"]
-0:{"buildId":"WLYueuUcwi7ODBUICQIJS","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"fzoEzUwKqXFx5fASg0O6C","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
