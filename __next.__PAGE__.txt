@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[92641,["/hero-animation/_next/static/chunks/7effad0043ea4afc.js","/hero-animation/_next/static/chunks/f8a671f2634ee4ed.js"],"ClientPageRoot"]
-3:I[63939,["/hero-animation/_next/static/chunks/7effad0043ea4afc.js","/hero-animation/_next/static/chunks/7440959357401c5d.js"],"default"]
+3:I[63939,["/hero-animation/_next/static/chunks/7effad0043ea4afc.js","/hero-animation/_next/static/chunks/d82eff4d673baf53.js"],"default"]
 6:I[33239,["/hero-animation/_next/static/chunks/7effad0043ea4afc.js","/hero-animation/_next/static/chunks/f8a671f2634ee4ed.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"oL9gc1mBcjRK6Wqrc3hVb","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/hero-animation/_next/static/chunks/7effad0043ea4afc.js","async":true}],["$","script","script-1",{"src":"/hero-animation/_next/static/chunks/7440959357401c5d.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"WLYueuUcwi7ODBUICQIJS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/hero-animation/_next/static/chunks/7effad0043ea4afc.js","async":true}],["$","script","script-1",{"src":"/hero-animation/_next/static/chunks/d82eff4d673baf53.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
